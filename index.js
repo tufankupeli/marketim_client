@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import Home from './src/views/Home';
 
-AppRegistry.registerComponent('marketim_client', () => App);
+AppRegistry.registerComponent('marketim_client', () => Home);
